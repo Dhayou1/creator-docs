@@ -8,7 +8,7 @@ The **Model** tab contains tools for manipulating 3D objects in the workspace, c
 <img src="../assets/studio/general/Toolbar-Model-Tab.png" width="830" alt="Model tab indicated in Studio toolbar" />
 
 ## Transform Tools
-
+create 
 The primary transform tools include **Select**, **Move**, **Scale**, **Rotate**, and **Transform**. When you choose a tool, visual draggers display on the selected object in the 3D viewport.
 
 <img src="../assets/studio/general/Model-Tab-Transform-Tools.png"
